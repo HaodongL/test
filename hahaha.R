@@ -1,3 +1,3 @@
 hello!
 Hi!
-How are you?
+How r you?
